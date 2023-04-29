@@ -21,5 +21,7 @@ Cihan Yılmaz
 - 
 Eray Asar
 - İşlemlerin Yapılması
+- Tasarım 
+
 
 
