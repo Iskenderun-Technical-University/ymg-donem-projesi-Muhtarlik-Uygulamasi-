@@ -5,5 +5,4 @@ silmesine ve güncellemesine yardımcı olamk için geliştirdiğimiz bir projed
 diğer vatandaşların bilgilerini görmesi mümkün değildir. Sadece muhtar tüm halle sakinlerinin bilgilerini görüntüleyebilir.
 
 # Use-Case Diagramı:
-
-
+![Diagram](https://github.com/Iskenderun-Technical-University/ymg-donem-projesi-Muhtarlik-
