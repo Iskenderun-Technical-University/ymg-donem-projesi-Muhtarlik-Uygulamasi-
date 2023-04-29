@@ -8,7 +8,7 @@ diğer vatandaşların bilgilerini görmesi mümkün değildir. Sadece muhtar t�
 ![Diagram](https://github.com/Iskenderun-Technical-University/ymg-donem-projesi-Muhtarlik-Uygulamasi-/blob/master/use%20case%20diagram%C4%B1.png)
 
 # Görev Dağılımı:
-Cihan Yılmaz
+Cihan Yılmaz - 222503220
 - Veritabanı
 - Giriş Ekranı
 - Crystal Report Kurulumu
