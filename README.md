@@ -19,6 +19,7 @@ Cihan Yılmaz
 - Rapor Ekranları
 - 
 Eray Asar
+- İşlemlerin Yapılması
 
 
 
