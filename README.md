@@ -1,1 +1,1 @@
-Şüheda halledicek
+şüheda yap şunu
