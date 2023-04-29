@@ -9,7 +9,7 @@ mahallenin muhtarı görüntüleyebiliyor.
 # Görev Dağılımı: 
 Cihan Yılmaz
 - Giriş Ekranı
-
+- Veritabanı
 
 
 
