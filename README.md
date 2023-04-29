@@ -1,4 +1,5 @@
 # Muhtarlık Uygulaması
+# Uygulama Özeti : 
 
 
 
