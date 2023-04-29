@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="muhtarlikDataSet1" targetNamespace="http://tempuri.org/muhtarlikDataSet1.xsd" xmlns:mstns="http://tempuri.org/muhtarlikDataSet1.xsd" xmlns="http://tempuri.org/muhtarlikDataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="muhtarlikConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="muhtarlikConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.muhtarlik_otomasyon.Properties.Settings.GlobalReference.Default.muhtarlikConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="birlestirilmisTabloTableAdapter" GeneratorDataComponentClassName="birlestirilmisTabloTableAdapter" Name="birlestirilmisTablo" UserDataComponentName="birlestirilmisTabloTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="muhtarlikConnectionString (Settings)" DbObjectType="Unknown" GenerateShortCommands="false" Modifier="Public" Name="Fill" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>select ikametgah.*,vatandas.vAd,vatandas.vSoyad,vatandas.vTelefon from ikametgah INNER JOIN vatandas ON ikametgah.vTC=vatandas.vTC</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="ikametgah_ID" DataSetColumn="ikametgah_ID" />
+              <Mapping SourceColumn="i_sokak" DataSetColumn="i_sokak" />
+              <Mapping SourceColumn="i_NO" DataSetColumn="i_NO" />
+              <Mapping SourceColumn="i_daire" DataSetColumn="i_daire" />
+              <Mapping SourceColumn="vTC" DataSetColumn="vTC" />
+              <Mapping SourceColumn="vAd" DataSetColumn="vAd" />
+              <Mapping SourceColumn="vSoyad" DataSetColumn="vSoyad" />
+              <Mapping SourceColumn="vTelefon" DataSetColumn="vTelefon" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="muhtarlikDataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="muhtarlikDataSet1" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="muhtarlikDataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="birlestirilmisTablo" msprop:Generator_RowEvHandlerName="birlestirilmisTabloRowChangeEventHandler" msprop:Generator_RowDeletedName="birlestirilmisTabloRowDeleted" msprop:Generator_RowDeletingName="birlestirilmisTabloRowDeleting" msprop:Generator_RowEvArgName="birlestirilmisTabloRowChangeEvent" msprop:Generator_TablePropName="birlestirilmisTablo" msprop:Generator_RowChangedName="birlestirilmisTabloRowChanged" msprop:Generator_UserTableName="birlestirilmisTablo" msprop:Generator_RowChangingName="birlestirilmisTabloRowChanging" msprop:Generator_RowClassName="birlestirilmisTabloRow" msprop:Generator_TableClassName="birlestirilmisTabloDataTable" msprop:Generator_TableVarName="tablebirlestirilmisTablo">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ikametgah_ID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnPropNameInTable="ikametgah_IDColumn" msprop:Generator_ColumnPropNameInRow="ikametgah_ID" msprop:Generator_UserColumnName="ikametgah_ID" msprop:Generator_ColumnVarNameInTable="columnikametgah_ID" type="xs:int" />
+              <xs:element name="i_sokak" msprop:Generator_ColumnPropNameInTable="i_sokakColumn" msprop:Generator_ColumnPropNameInRow="i_sokak" msprop:Generator_UserColumnName="i_sokak" msprop:Generator_ColumnVarNameInTable="columni_sokak">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="i_NO" msprop:Generator_ColumnPropNameInTable="i_NOColumn" msprop:Generator_ColumnPropNameInRow="i_NO" msprop:Generator_UserColumnName="i_NO" msprop:Generator_ColumnVarNameInTable="columni_NO" type="xs:int" />
+              <xs:element name="i_daire" msprop:Generator_ColumnPropNameInTable="i_daireColumn" msprop:Generator_ColumnPropNameInRow="i_daire" msprop:Generator_UserColumnName="i_daire" msprop:Generator_ColumnVarNameInTable="columni_daire" type="xs:int" />
+              <xs:element name="vTC" msprop:Generator_ColumnPropNameInTable="vTCColumn" msprop:Generator_ColumnPropNameInRow="vTC" msprop:Generator_UserColumnName="vTC" msprop:Generator_ColumnVarNameInTable="columnvTC" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="vAd" msprop:Generator_UserColumnName="vAd" msprop:Generator_ColumnPropNameInTable="vAdColumn" msprop:Generator_ColumnPropNameInRow="vAd" msprop:Generator_ColumnVarNameInTable="columnvAd">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="vSoyad" msprop:Generator_UserColumnName="vSoyad" msprop:Generator_ColumnPropNameInTable="vSoyadColumn" msprop:Generator_ColumnPropNameInRow="vSoyad" msprop:Generator_ColumnVarNameInTable="columnvSoyad">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="vTelefon" msprop:Generator_UserColumnName="vTelefon" msprop:Generator_ColumnPropNameInTable="vTelefonColumn" msprop:Generator_ColumnPropNameInRow="vTelefon" msprop:Generator_ColumnVarNameInTable="columnvTelefon">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:birlestirilmisTablo" />
+      <xs:field xpath="mstns:ikametgah_ID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
