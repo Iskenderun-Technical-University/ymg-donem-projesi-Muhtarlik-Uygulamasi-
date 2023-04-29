@@ -7,7 +7,7 @@ mahallenin muhtarı görüntüleyebiliyor.
 ![usecasediagram](https://user-images.githubusercontent.com/128770446/232312754-0981a5ae-e7b6-4c59-8abb-a273b482fc72.png)
 
 # Görev Dağılımı: 
-
+Cihan Yılmaz
 
 
 
