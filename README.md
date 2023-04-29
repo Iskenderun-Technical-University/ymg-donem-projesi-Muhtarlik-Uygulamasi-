@@ -1,0 +1,1 @@
+Şüheda halledicek
