@@ -9,5 +9,6 @@ diğer vatandaşların bilgilerini görmesi mümkün değildir. Sadece muhtar t�
 
 # Görev Dağılımı:
 Cihan Yılmaz
+- Veritabanı
 
 
