@@ -20,6 +20,9 @@ Cihan Yılmaz
 - Rapor Ekranları
 - 
 Eray Asar
-
+- İşlemlerin Yapılması
+- Tasarım 
+- Şifre işlemleri
+- Üyeleri Görüntüleme
 
 
