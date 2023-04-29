@@ -11,4 +11,6 @@ diğer vatandaşların bilgilerini görmesi mümkün değildir. Sadece muhtar t�
 Cihan Yılmaz
 - Veritabanı
 - Giriş Ekranı
+- Crystal Report Kurulumu
+
 
