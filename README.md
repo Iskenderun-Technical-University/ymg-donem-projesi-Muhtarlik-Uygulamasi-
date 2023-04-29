@@ -10,6 +10,7 @@ mahallenin muhtarı görüntüleyebiliyor.
 Cihan Yılmaz
 - Giriş Ekranı
 - Veritabanı
+- Crystal Report Kurulumu
 
 
 
