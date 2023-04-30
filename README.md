@@ -25,7 +25,7 @@ Eray Asar - 202503057
 - Şifre işlemleri
 - Üyeleri Görüntüleme
 
-# Class Dİagramı:
+# Class Diagramı:
 ![Class Diagram](https://github.com/Iskenderun-Technical-University/ymg-donem-projesi-Muhtarlik-Uygulamasi-/blob/master/Class%20Diagram%C4%B1.png)
 
 # Giriş Ekranı:
