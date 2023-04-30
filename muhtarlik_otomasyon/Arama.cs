@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 
-namespace muhtarlik_otomasyon
+namespace muhtarlik_otomasyonss
 {
     public partial class Arama : Form
     {
