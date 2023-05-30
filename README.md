@@ -25,3 +25,6 @@ Eray Asar - 202503057
 - Şifre işlemleri
 - Üyeleri Görüntüleme
 
+# Class Diagramı:
+
+
