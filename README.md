@@ -4,4 +4,6 @@ Yapacağımız proje mahallede bulunan muhtarın mahalle sakinlerinin bilgilerin
 silmesine ve güncellemesine yardımcı olmak için geliştirdiğimiz bir projedir. Mahalle sakinlerinin kendi bilgileri dışında 
 diğer vatandaşların bilgilerini görmesi mümkün değildir. Sadece muhtar tüm mahalle sakinlerinin bilgilerini görüntüleyebilir.
 
+# Use-Case Diagramı:
+
 
