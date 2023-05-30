@@ -26,5 +26,5 @@ Eray Asar - 202503057
 - Üyeleri Görüntüleme
 
 # Class Diagramı:
-![Diagram](https://github.com/Iskenderun-Technical-University/ymg-donem-projesi-Muhtarlik-Uygulamasi-/blob/master/Class%20Diagram%C4%B1.png)
+![Class Diagram](https://github.com/Iskenderun-Technical-University/ymg-donem-projesi-Muhtarlik-Uygulamasi-/blob/master/Class%20Diagram%C4%B1.png)
 
