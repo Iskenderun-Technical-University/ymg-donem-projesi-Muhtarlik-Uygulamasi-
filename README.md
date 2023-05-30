@@ -1,4 +1,3 @@
 # MUHTARLIK UYGULAMASI
-
-
+# Proje Özeti:
 
