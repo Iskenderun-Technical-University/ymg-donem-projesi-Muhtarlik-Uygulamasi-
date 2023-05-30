@@ -11,4 +11,5 @@ diğer vatandaşların bilgilerini görmesi mümkün değildir. Sadece muhtar t�
 Cihan Yılmaz - 222503220
 - Veritabanı
 - Giriş Ekranı
+- Crystal Report Kurulumu
 
