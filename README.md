@@ -14,4 +14,7 @@ Cihan Yılmaz - 222503220
 - Crystal Report Kurulumu
 - Crystal Report Kullanımı
 
+Şüheda Gündüz - 202503072
+
+
 
