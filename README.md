@@ -21,4 +21,6 @@ Cihan Yılmaz - 222503220
 
 Eray Asar - 202503057
 - İşlemlerin Yapılması
+- Tasarım 
+
 
