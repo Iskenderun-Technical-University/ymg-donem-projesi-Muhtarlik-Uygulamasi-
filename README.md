@@ -20,4 +20,5 @@ Cihan Yılmaz - 222503220
 - Rapor Ekranları
 
 Eray Asar - 202503057
+- İşlemlerin Yapılması
 
