@@ -40,3 +40,6 @@ Eray Asar - 202503057
 
 # Detaylı Arama
 ![](https://github.com/Iskenderun-Technical-University/ymg-donem-projesi-Muhtarlik-Uygulamasi-/blob/master/Detayl%C4%B1%20Arama.png)
+
+# İkametgah
+![](https://github.com/Iskenderun-Technical-University/ymg-donem-projesi-Muhtarlik-Uygulamasi-/blob/master/%C4%B0kametgah.png)
