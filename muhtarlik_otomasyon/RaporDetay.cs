@@ -22,7 +22,7 @@ namespace muhtarlik_otomasyon
 
         private void RaporDetay_Load(object sender, EventArgs e)
         {
-            //
+            
             detayRapor1.SetDataSource(ds.Tables[0]);
             detayRapor1.SetParameterValue("sokakS", sokak);
             crystalReportViewer1.ReportSource = detayRapor1;
