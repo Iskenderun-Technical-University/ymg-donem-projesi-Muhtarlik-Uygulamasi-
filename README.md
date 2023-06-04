@@ -37,3 +37,6 @@ Eray Asar - 202503057
 
 # Kayıt Ekranı
 ![](https://github.com/Iskenderun-Technical-University/ymg-donem-projesi-Muhtarlik-Uygulamasi-/blob/master/Kayit%20Ekrani.png)
+
+# Detaylı Arama
+![](https://github.com/Iskenderun-Technical-University/ymg-donem-projesi-Muhtarlik-Uygulamasi-/blob/master/Detayl%C4%B1%20Arama.png)
