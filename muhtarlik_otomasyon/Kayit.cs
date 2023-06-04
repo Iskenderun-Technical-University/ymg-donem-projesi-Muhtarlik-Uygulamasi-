@@ -178,7 +178,7 @@ namespace muhtarlik_otomasyon
             }
             else
             {
-                MessageBox.Show("Bu İşlem İçin Yetkiniz Yok.");
+                MessageBox.Show("Bu İşlem İçin Yetkiniz Yok. Lütfen tekrar deneyin!");
             }
         }
     }
