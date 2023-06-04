@@ -100,7 +100,7 @@ namespace muhtarlik_otomasyon
             dataGridView1.Columns[7].HeaderText = "Soyad";
             dataGridView1.Columns[8].HeaderText = "Telefon";
             dataGridView1.Columns[9].HeaderText = "TC NO";
-            //
+            
 
 
 
