@@ -199,6 +199,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="VeritabanıDosya\muhtarlik.bacpac" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
